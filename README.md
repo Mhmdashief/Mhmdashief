@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Mochamad Iftichor Al Ashief and I'm a web developer from indonesia</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating website using several framework<br>📚 I'm currently learning about website structure and enthusiast at AI things<br>🎯 Goals: being professional web developers<br>🎲 .</p>
 
 ###
 
