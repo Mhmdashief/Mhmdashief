@@ -1,2 +1,2 @@
-# Mochamad Iftcihor Al Ashief
+# Mochamad Iftichor Al Ashief
 ### Web developer
